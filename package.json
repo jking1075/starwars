@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -13,5 +13,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jking1075/starwars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jking1075/starwars/issues"
+  },
+  "homepage": "https://github.com/jking1075/starwars#readme"
 }
